@@ -23,6 +23,10 @@ https://shop.kccollective.vip
 
 ![K&C Collective Homepage](homepage.png)
 
+### Products Page
+
+![K&C Collective Products](products.png)
+
 ## Technologies
 
 - HTML
