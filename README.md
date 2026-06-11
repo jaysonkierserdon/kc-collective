@@ -17,6 +17,12 @@ K&C Collective is an e-commerce platform designed to provide customers with a se
 
 https://shop.kccollective.vip
 
+## Screenshots
+
+### Homepage
+
+![K&C Collective Homepage](homepage.png)
+
 ## Technologies
 
 - HTML
