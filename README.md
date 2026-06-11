@@ -27,6 +27,9 @@ https://shop.kccollective.vip
 
 ![K&C Collective Products](products.png)
 
+### Shopping Cart
+![Shopping Cart](shopping-cart.png)
+
 ### Checkout Step 1
 
 ![Checkout Step 1](checkout-step1.png)
