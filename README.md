@@ -27,6 +27,10 @@ https://shop.kccollective.vip
 
 ![K&C Collective Products](products.png)
 
+### Checkout Page
+
+![K&C Collective Checkout](checkout.png)
+
 ## Technologies
 
 - HTML
